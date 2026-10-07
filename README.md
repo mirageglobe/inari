@@ -201,3 +201,7 @@ The TUI is inspired by `k9s` and is entirely keyboard-driven.
 ## roadmap
 
 See [SPEC.md](SPEC.md#3-roadmap--milestones) for the project roadmap and build milestones.
+
+---
+
+[buy me a coffee](https://buymeacoffee.com/mirageglobe)
